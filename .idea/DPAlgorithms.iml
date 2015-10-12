@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/LongestIncreasingSubsequence.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestNonDecreasingSubsequence.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestNonDecreasingSubsequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PickEitherSIdeforMaxValue.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PickEitherSIdeforMaxValue.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

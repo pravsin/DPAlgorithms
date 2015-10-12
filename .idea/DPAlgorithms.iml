@@ -2,6 +2,8 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BitsMagic.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BitsMagic.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CoinChangeProblem.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CoinChangeProblem.h" isTestSource="false" />
@@ -11,10 +13,22 @@
       <sourceFolder url="file://$MODULE_DIR$/FFTMultiplication.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FenwickTree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FenwickTree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FloydWarshallAPSP.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FloydWarshallAPSP.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HistogramArea.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HistogramArea.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KMP.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KMP.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Kanpsack01.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Kanpsack01.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestBitonicSubsequence.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestBitonicSubsequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestCommonIncreasingSubsequence.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestCommonIncreasingSubsequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestCommonSubsequenceLCS.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestCommonSubsequenceLCS.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestCommonSubstring.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestCommonSubstring.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestIncreasingSubsequence.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestIncreasingSubsequence.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestNonDecreasingSubsequence.cpp" isTestSource="false" />

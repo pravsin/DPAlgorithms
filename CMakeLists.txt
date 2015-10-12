@@ -10,7 +10,7 @@ set(SOURCE_FILES
     LongestIncreasingSubsequence.h
     LongestNonDecreasingSubsequence.cpp
     LongestNonDecreasingSubsequence.h
-    main.cpp CuttingRodProblem.cpp CuttingRodProblem.h PickEitherSIdeforMaxValue.cpp PickEitherSIdeforMaxValue.h UnionFind.cpp UnionFind.h SegmentTree.cpp SegmentTree.h FenwickTree.cpp FenwickTree.h HistogramArea.cpp HistogramArea.h LongestPalindromeSubsequence.cpp LongestPalindromeSubsequence.h Kanpsack01.cpp Kanpsack01.h FFTMultiplication.cpp FFTMultiplication.h kadane.cpp kadane.h)
+    main.cpp CuttingRodProblem.cpp CuttingRodProblem.h PickEitherSIdeforMaxValue.cpp PickEitherSIdeforMaxValue.h UnionFind.cpp UnionFind.h SegmentTree.cpp SegmentTree.h FenwickTree.cpp FenwickTree.h HistogramArea.cpp HistogramArea.h LongestPalindromeSubsequence.cpp LongestPalindromeSubsequence.h Kanpsack01.cpp Kanpsack01.h FFTMultiplication.cpp FFTMultiplication.h kadane.cpp kadane.h LongestCommonIncreasingSubsequence.cpp LongestCommonIncreasingSubsequence.h KMP.cpp KMP.h LongestCommonSubsequenceLCS.cpp LongestCommonSubsequenceLCS.h BitsMagic.cpp BitsMagic.h FloydWarshallAPSP.cpp FloydWarshallAPSP.h LongestCommonSubstring.cpp LongestCommonSubstring.h LongestBitonicSubsequence.cpp LongestBitonicSubsequence.h)
 
 include_directories(.)
 

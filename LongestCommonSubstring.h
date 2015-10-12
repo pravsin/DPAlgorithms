@@ -1,0 +1,14 @@
+//
+// Created by praveen on 12/10/15.
+//
+
+#ifndef DPALGORITHMS_LONGESTCOMMONSUBSTRING_H
+#define DPALGORITHMS_LONGESTCOMMONSUBSTRING_H
+
+
+class LongestCommonSubstring {
+
+};
+
+
+#endif //DPALGORITHMS_LONGESTCOMMONSUBSTRING_H

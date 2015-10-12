@@ -10,7 +10,7 @@ set(SOURCE_FILES
     LongestIncreasingSubsequence.h
     LongestNonDecreasingSubsequence.cpp
     LongestNonDecreasingSubsequence.h
-    main.cpp)
+    main.cpp CuttingRodProblem.cpp CuttingRodProblem.h)
 
 include_directories(.)
 

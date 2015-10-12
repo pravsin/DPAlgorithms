@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CoinChangeProblem.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CoinChangeProblem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CuttingRodProblem.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CuttingRodProblem.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestIncreasingSubsequence.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestIncreasingSubsequence.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestNonDecreasingSubsequence.cpp" isTestSource="false" />

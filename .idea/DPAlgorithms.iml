@@ -7,12 +7,18 @@
       <sourceFolder url="file://$MODULE_DIR$/CoinChangeProblem.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CuttingRodProblem.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CuttingRodProblem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FenwickTree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FenwickTree.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestIncreasingSubsequence.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestIncreasingSubsequence.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestNonDecreasingSubsequence.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LongestNonDecreasingSubsequence.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PickEitherSIdeforMaxValue.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PickEitherSIdeforMaxValue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SegmentTree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SegmentTree.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UnionFind.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UnionFind.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

@@ -10,7 +10,7 @@ set(SOURCE_FILES
     LongestIncreasingSubsequence.h
     LongestNonDecreasingSubsequence.cpp
     LongestNonDecreasingSubsequence.h
-    main.cpp CuttingRodProblem.cpp CuttingRodProblem.h PickEitherSIdeforMaxValue.cpp PickEitherSIdeforMaxValue.h)
+    main.cpp CuttingRodProblem.cpp CuttingRodProblem.h PickEitherSIdeforMaxValue.cpp PickEitherSIdeforMaxValue.h UnionFind.cpp UnionFind.h SegmentTree.cpp SegmentTree.h FenwickTree.cpp FenwickTree.h)
 
 include_directories(.)
 

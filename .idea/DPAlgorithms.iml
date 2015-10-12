@@ -41,6 +41,8 @@
       <sourceFolder url="file://$MODULE_DIR$/SegmentTree.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UnionFind.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UnionFind.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Zalgorithm.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Zalgorithm.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kadane.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kadane.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />

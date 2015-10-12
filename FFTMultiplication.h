@@ -1,0 +1,14 @@
+//
+// Created by praveen on 12/10/15.
+//
+
+#ifndef DPALGORITHMS_FFTMULTIPLICATION_H
+#define DPALGORITHMS_FFTMULTIPLICATION_H
+
+
+class FFTMultiplication {
+
+};
+
+
+#endif //DPALGORITHMS_FFTMULTIPLICATION_H

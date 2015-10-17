@@ -12,7 +12,7 @@ long long minNoOfCoins(vector<int> coins, long long sum){
                 minCoins[i]= minCoins[i-coins[j]]+1;
                 coinsDen[i]= coins[j];
             }
-        }
+        } 
     }
     int s = sum;
     while(s){
